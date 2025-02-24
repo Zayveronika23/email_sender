@@ -7,7 +7,7 @@
 
 ```bash
 Клонируем репозиторий 
-git clone git@github.com:<nickname>/Test_task.git
+git clone git@github.com:Zayveronika23/email_sender.git
 
 Переходим в директорию:
 cd email_sender
